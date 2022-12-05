@@ -14,9 +14,18 @@
     {
       "id": "6389a81aba2e1506d0ae9fdd",
       "uidString": "UUID_https://cdn.jsdelivr.net/npm/uuidjs@4.2.12/src/uuid.min.js"
+    },
+    {
+      "id": "6388ebd0418ffc50d4eb8569",
+      "uidString": "jsonwebtoken_/libraries/jsonwebtoken@8.5.1.js"
     }
   ],
-  "publishedCustomJSLibs": [],
+  "publishedCustomJSLibs": [
+    {
+      "id": "6389a81aba2e1506d0ae9fdd",
+      "uidString": "UUID_https://cdn.jsdelivr.net/npm/uuidjs@4.2.12/src/uuid.min.js"
+    }
+  ],
   "evaluationVersion": 2,
   "applicationVersion": 2,
   "isManualUpdate": false,
